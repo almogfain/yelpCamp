@@ -1,0 +1,28 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.inline{
+    display: inline;
+}
+
+.input-div {
+    width: 30%;
+    margin: 25px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.jumbotron h1{
+    text-align: left;
+}
